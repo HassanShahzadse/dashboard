@@ -1,0 +1,22 @@
+.navbar-logo {
+    color: #007bff;
+  }
+  
+  .user-profile-img {
+    width: 30px;
+    margin-right: 10px;
+  }
+  .Navbar-container button,.button-search,.btn-edit-profile {
+    display: block;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .Navbar-container button:hover {
+    background-color: #0069d9;
+  }
+  
